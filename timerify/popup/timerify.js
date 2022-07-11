@@ -1,4 +1,3 @@
-// test
 class Timer {
     constructor(root) {
         root.innerHTML = Timer.getHTML();
